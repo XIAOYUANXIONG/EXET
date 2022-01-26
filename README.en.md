@@ -13,13 +13,15 @@ Participation and contribution
 1.  XIAOYUANXIONG
 2. Exet personnel
 be careful
-This program will not damage your computer equipment, but it will cause trouble, so please use it carefully and remember
-The key can help you recover
-run
+*This program will not damage your computer equipment, but it will cause trouble, so use it carefully, remember, Please
+And the key Can help you recover
+To run
 Please download EXE file
-view code
-Please download the electronic file
-recovery
-Please download txt key
-Think about you
-（Baidu Translate,China)
+To see the code
+Please download E file
+To restore
+Please download the txt key
+Please give administrator (UAC) permission for the first operation
+Subsequent not required
+Thank you!!！
+（Shanxi,China)
