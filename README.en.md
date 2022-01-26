@@ -1,36 +1,25 @@
-# Exet
-
-#### Description
-A E EXE
-
-#### Software Architecture
+Exet
+introduce
+An e program
+Software architecture
 Software architecture description
-
-#### Installation
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Instructions
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### Contribution
-
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
-
-
-#### Gitee Feature
-
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+Based on easy language
+Module: Jingyi module
+Installation tutorial
+Please download the latest build
+instructions
+This software is applicable to Windows 2000 and above
+Participation and contribution
+1.  XIAOYUANXIONG
+2. Exet personnel
+be careful
+This program will not damage your computer equipment, but it will cause trouble, so please use it carefully and remember
+The key can help you recover
+run
+Please download EXE file
+view code
+Please download the electronic file
+recovery
+Please download txt key
+Think about you
+（Baidu Translate,China)
