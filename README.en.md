@@ -8,7 +8,8 @@ Module: Jingyi module
 Installation tutorial
 Please download the latest build
 instructions
-This software is applicable to Windows 2000 and above
+This software is visually available for Windows 7 and above (Windows 8.1 and above is recommended)
+The old version can run on 98/2000/2003
 Participation and contribution
 1.  XIAOYUANXIONG
 2. Exet personnel
