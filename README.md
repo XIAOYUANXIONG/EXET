@@ -1,40 +1,5 @@
-Exet
 
-介绍
-一个E程序
+Exet introduce An e program Software architecture Software architecture description Based on easy language Module: Jingyi module Installation tutorial Please download the latest build instructions This software is visually available for Windows 7 and above (Windows 8.1 and above is recommended) The old version can run on 98/2000/2003 Participation and contribution
 
-软件架构
-软件架构说明
-基于易语言
-模块：精易模块
-
-
-安装教程
-
-请下载最新构建版本
-
-
-使用说明
-
-本软件目测适用于Windows7及以上版本（推荐windows8.1及以上版本）
-老版本可以在98/2000/2003运行
- 
-
-参与贡献
-
-1.  XIAOYUANXIONG
-2.  EXET人员
-
-Google Translate（谷歌翻译）
-*本程序不会损坏您的电脑设备，但会造成麻烦，请谨慎使用，切记，请
-而钥匙可以帮你恢复
-跑步
-请下载EXE文件
-查看代码
-请下载E文件
-恢复
-请下载txt密钥
-请授予管理员 (UAC) 权限以进行首次操作
-后续不需要
-感谢（谢谢）！！
-
+XIAOYUANXIONG
+Exet personnel be careful *This program will not damage your computer equipment, but it will cause trouble, so use it carefully, remember, Please And the key Can help you recover To run Please download EXE file To see the code Please download E file To restore Please download the txt key Please give administrator (UAC) permission for the first operation Subsequent not required Thank you!!！ （Shanxi,China)
