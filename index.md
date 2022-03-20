@@ -1,3 +1,4 @@
+### [下载]: https://xiaoyuanxiong.github.io/EXET/
 ## 欢迎来到EXET官方网站
    来看看我们近期的工作吧    
    我们在1.0版本改进了UI设计
@@ -5,4 +6,5 @@
    我们重视用户的反馈
    反馈请通过github或者gitee进行
    谢谢您的支持！
+   
    
