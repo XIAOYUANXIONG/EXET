@@ -5,5 +5,5 @@
    我们重视用户的反馈
    反馈请通过github或者gitee进行
    谢谢您的支持！
-   [link]https://github.com/XIAOYUANXIONG/EXET/releases/download/1.0/EXET.exe
+   [link] https://github.com/XIAOYUANXIONG/EXET/releases/download/1.0/EXET.exe
   
