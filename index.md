@@ -1,4 +1,4 @@
-### [下载最新版本](https://github.com/XIAOYUANXIONG/EXET/releases/download/1.0/EXET.exe
+### [下载最新版本](https://github.com/XIAOYUANXIONG/EXET/releases/download/1.0/EXET.exe)
 ## 欢迎来到EXET官方网站
    来看看我们近期的工作吧    
    我们在1.0版本改进了UI设计
