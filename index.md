@@ -11,6 +11,6 @@
    反馈请通过github或者gitee进行
    谢谢您的支持！
 
-
+### [获得作者 账号密码](https://www.bilibili.com/BV1GJ411x7h7)
    
    
