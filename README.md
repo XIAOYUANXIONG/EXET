@@ -1,4 +1,4 @@
-[官方网站](https://xiaoyuanxiong.github.io/EXET/) 
+[official website](https://xiaoyuanxiong.github.io/EXET/) 
 
 
 Exet introduce An e program Software architecture Software architecture description Based on easy language Module: Jingyi module Installation tutorial Please download the latest build instructions This software is visually available for Windows 7 and above (Windows 8.1 and above is recommended) The old version can run on 98/2000/2003 Participation and contribution
