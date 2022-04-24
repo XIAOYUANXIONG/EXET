@@ -4,7 +4,7 @@
 ## EXET是一个实用的工具箱
    来看看我们近期的工作吧    
    *我们在1.0版本改进了UI设计
-   (当前最新版本-1.2）
+   (当前最新版本-1.3）
 ## [反馈问题](https://github.com/XIAOYUANXIONG/EXET/issues)
    我们重视用户的反馈
    反馈请通过github或者gitee进行
