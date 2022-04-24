@@ -1,7 +1,6 @@
 # 欢迎来到EXET官方网站
-## [下载最新版本（github)](https://github.com/XIAOYUANXIONG/EXET/releases/download/V1.2/EXETV1.2.exe)
-## [下载最新版本（gitee)](https://gitee.com/xiaoyuanxiong/exet/attach_files/1039809/download/EXET.exe)
-## [下载最新版本（国内镜像源1)](https://pan.bilnn.cn/api/v3/file/sourcejump/aw2e6GHl/tt5DinHZjirOq_YqgAppAsYZOWY3RVWwBagoEv6PXhQ*) 
+## [下载最新版本（国外源)](https://github.com/XIAOYUANXIONG/EXET/releases/download/V1.3/EXET.exe)
+## [下载最新版本（国内源)](https://pan.bilnn.cn/api/v3/file/sourcejump/Z9ZD9aHo/apC4KbHH_q97bvZoaSW1-7E25SKMOaPsbSv5EkzKABs*) 
 ## EXET是一个实用的工具箱
    来看看我们近期的工作吧    
    *我们在1.0版本改进了UI设计
